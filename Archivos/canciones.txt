@@ -1,0 +1,25 @@
+Seven,Jung Kook,Canciones\Seven.wav,Imagenes\Seven.jpg,3:05,Seven,2023
+LALA,Myke Towers,Canciones\LALA.wav,Imagenes\LALA.jpg,3:18,LA VIDA ES UNA,2023
+Vampire,Olivia Rodrigo,Canciones\Vampire.wav,Imagenes\Vampire.jpg,3:40,GUTS,2023
+Cruel Summer,Taylor Swift,Canciones\Cruel Summer.wav,Imagenes\Cruel Summer.jpg,3:00,Lover,2019
+WHERE SHE GOES,Bad Bunny,Canciones\WHERE SHE GOES.wav,Imagenes\WHERE SHE GOES.jpg,3:52,Nadie sabe lo que va a pasar manana,2023
+Sprinter,Dave,Canciones\Sprinter.wav,Imagenes\Sprinter.jpg,3:50,Sprinter,2023
+Ella Baila Sola,Peso Pluma,Canciones\Ella Baila Sola.wav,Imagenes\Ella Baila Sola.jpg,2:46,Ella Baila Sola,2023
+Columbia,Quevedo,Canciones\Columbia.wav,Imagenes\Columbia.jpg,3:07,Columbia,2023
+Fukumean,Gunna,Canciones\Fukumean.wav,Imagenes\Fukumean.jpg,2:06,a Gift & a Curse,2023
+La Bebe - Remix,Peso Pluma,Canciones\La Bebe.wav,Imagenes\La Bebe.jpg,3:55,La Bebe (Remix),2023
+un x100to,Bad Bunny,Canciones\un x100to.wav,Imagenes\un x100to.jpg,3:14,un x100to,2023
+Super Shy,NewJeans,Canciones\Super Shy.wav,Imagenes\Super Shy.jpg,2:34,Super Shy,2023
+Flowers,Miley Cyrus,Canciones\Flowers.wav,Imagenes\Flowers.jpg,3:20,Endless Summer Vacation,2023
+Daylight,David Kushner,Canciones\Daylight.wav,Imagenes\Daylight.jpg,3:32,Daylight,2023
+As It Was,Harry Styles,Canciones\As It Was.wav,Imagenes\As It Was.jpg,2:45,Harry's House,2022
+Kill Bill,SZA,Canciones\Kill Bill.wav,Imagenes\Kill Bill.jpg,2:35,SOS,2022
+Cupid - Twin Ver,Fifty Fifty,Canciones\Cupid.wav,Imagenes\Cupid.jpg,2:55,The Beginning: Cupid,2023
+What Was I Made For?,Billie Eilish,Canciones\What Was I Made For.wav,Imagenes\What Was I Made For.jpg,3:42,What Was I Made For?,2023
+Classy 101,Feid,Canciones\Classy 101.wav,Imagenes\Classy 101.jpg,3:15,Classy 101,2023
+Like Crazy,Jimin,Canciones\Like Crazy.wav,Imagenes\Like Crazy.jpg,3:32,FACE,2023
+LADY GAGA,Peso Pluma,Canciones\LADY GAGA.wav,Imagenes\LADY GAGA.jpg,3:33,GENESIS,2023
+I Can See You (Taylor's Version),Taylor Swift,Canciones\I Can See You.wav,Imagenes\I Can See You.jpg,4:33,Speak Now(Taylor's Version),2023
+I Wanna Be Yours,Artic Monkeys,Canciones\I Wanna Be Yours.wav,Imagenes\I Wanna Be Yours.jpg,3:03,AM,2013
+Peso Pluma:Bzrp Music Sessions,Bizarrap,Canciones\Peso Pluma.wav,Imagenes\Peso Pluma.jpg,3:12,Peso Pluma:Bzrp Music Sessions,2023
+Popular,The Weekend,Canciones\Popular.wav,Imagenes\Popular.jpg,3:35,Popular,2023
